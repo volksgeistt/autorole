@@ -9,6 +9,9 @@
 # @ Disclaimer ⚠️
 - if you're implmenting this code into your discord bot, make sure to provide credits and then you can use it afterwards!! 
 
+# @ Setup View
+![image](https://github.com/user-attachments/assets/5f0a133b-93b5-4c33-93fb-daaaadd5dcdc)
+
 # Credits @ Volksgeist
 - discord @ [volksgeistt](https://discord.com/users/1181256087081603116)
 
